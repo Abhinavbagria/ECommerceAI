@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # TechStore - Modern E-commerce Website
 
 A modern, responsive e-commerce website built with Next.js and Tailwind CSS. This project showcases a beautiful tech store with product listings, categories, and a fully responsive design.
@@ -209,3 +210,7 @@ For support or questions:
 ---
 
 Built with ❤️ using Next.js and Tailwind CSS 
+=======
+# ECommerceAI
+ECommerce website created by using AI. 
+>>>>>>> f562beada370d584c08ef84e06e11589c22d6c25
